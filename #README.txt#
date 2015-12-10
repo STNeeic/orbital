@@ -1,6 +1,0 @@
-学科内向け
-コンパイルの仕方
-
-gcc gravity4.c rsc/kbhit.c -o gravity.o
-
-遊び方
