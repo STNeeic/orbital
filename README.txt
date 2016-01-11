@@ -1,7 +1,7 @@
 学科内向け
 コンパイルの仕方
 
-gcc gravity4.c rsc/kbhit.c -o gravity.o
+make
 
 遊び方
 aで引力sで斥力、他のキーで力を発生させない状態になります
